@@ -1,1 +1,4 @@
-I am hungry
+I am hungry?
+Eat Samosa
+if not hungry?
+do your work!
